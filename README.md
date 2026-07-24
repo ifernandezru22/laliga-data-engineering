@@ -1,4 +1,4 @@
-201~200~# LaLiga Data Engineering Project
+# LaLiga Data Engineering Project
 
 Proyecto de aprendizaje orientado a construir un pipeline de Data Engineering a partir de datos históricos de partidos de LaLiga.
 
